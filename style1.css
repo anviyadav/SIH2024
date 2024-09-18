@@ -1,0 +1,71 @@
+body{
+   background-color: rgb(19, 105, 170); 
+   color: #fff; 
+   text-align: center;
+}
+.bg>h1{
+    font-size: 300%;
+}
+.bg{
+    font-weight: bold;
+    font-size: large;
+}
+.bg>h1{
+   line-height: 200px;
+}
+.text{
+    font-weight: bold;
+    font-size: large;
+    position: absolute;
+    top: 470px;
+    left: 540px;
+}
+.text>h1{
+    font-weight: bolder;
+    line-height: 10px;
+    letter-spacing: 20%;
+}
+.text h2{
+    font-size: x-large;
+}
+button{
+    color: rgb(19, 96, 218);
+    border: 1px solid white;
+    border-radius: 15px;
+    height: 75px;
+    width: 250px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 120%;
+    margin: 50px;
+}
+.text>img{
+    height: 25px;
+    width: auto;
+    border-radius: 50%;
+}
+div>h2{
+    display: inline;
+}
+.button{
+    position: absolute;
+    top: 600px;
+    left: 430px;
+}
+.img{
+    display: flex;
+}
+.ashok>img{
+    position: absolute;
+    top: 200px;
+    left:650px;
+    height: 250px;
+    width: 150px;
+}
+.azadi>img{
+    position: absolute;
+    top: 250px;
+    left: 1100px;
+    height: 150px;
+    width: 250px;
+}
